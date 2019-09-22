@@ -1,0 +1,6 @@
+framework module Pods_firebaseAPNS {
+  umbrella header "Pods-firebaseAPNS-umbrella.h"
+
+  export *
+  module * { export * }
+}
